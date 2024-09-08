@@ -26,4 +26,32 @@ And now your background image should appear
 
 To remove the image just follow the steps in reverse and your theme should go back to normal!!!
 
+Currently changing the dm button is a bit of a harder process than this but its still fairly simple and I'm currently working on making it easier
+
+1:
+Go down to line 73 and remove all the code besides "--moon-icon: none;"
+
+I recommend saving the deleted code somewhere in case you want to readd this later
+
+Should look like this:
+
+![image](https://github.com/user-attachments/assets/2bf77159-e794-4170-8b35-8d95e8b5ec40)
+
+2:
+Then go down to line 103 and copy and paste this code
+
+.childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
+	background: url('');
+	background-color: transparent !important;
+	background-size: cover;
+}
+
+Should look like this:
+
+![image](https://github.com/user-attachments/assets/0090133e-0d20-481a-87a5-fbb32d61908d)
+
+
+3:
+Then you can copy your image url into it and your icon should appear in the top left!!!!
+
 thanks 4 reading and using my theme ◝(＾▽＾)◜
