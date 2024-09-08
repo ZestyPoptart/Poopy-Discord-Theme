@@ -26,6 +26,8 @@ And now your background image should appear
 
 To remove the image just follow the steps in reverse and your theme should go back to normal!!!
 
+
+
 Currently changing the dm button is a bit of a harder process than this but its still fairly simple and I'm currently working on making it easier
 
 1:
