@@ -4,6 +4,7 @@ My discord theme :P
 This theme allows background images but a few steps are required to do so
 1:
 Go down to line 49 (--theme-background-image) and upload your image url
+
 ![image](https://github.com/user-attachments/assets/7956134f-2d17-4e00-9867-1c9dd9c79fd7)
 
 2:
@@ -13,6 +14,7 @@ To fix this we're going to change the opacity on the background color to make it
 
 3:
 Go to line 48 (--bg-4)
+
 ![image](https://github.com/user-attachments/assets/98a9cab2-0b32-4613-99de-b7b4807aed18)
 Now change the 4th number within the brackets from "1" to "0"
 
