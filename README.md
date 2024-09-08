@@ -22,5 +22,6 @@ Now change the 4th number within the brackets from "1" to "0"
 
 And now your background image should appear
 
-To remove the image just follow the steps in reverse 
+To remove the image just follow the steps in reverse and your theme should go back to normal!!!
+
 thanks 4 reading and using my theme ◝(＾▽＾)◜
