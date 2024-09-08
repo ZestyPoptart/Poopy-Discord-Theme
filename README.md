@@ -2,6 +2,7 @@
 My discord theme :P
 
 This theme allows background images but a few steps are required to do so
+
 1:
 Go down to line 49 (--theme-background-image) and upload your image url
 
