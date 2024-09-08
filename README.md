@@ -16,6 +16,7 @@ To fix this we're going to change the opacity on the background color to make it
 Go to line 48 (--bg-4)
 
 ![image](https://github.com/user-attachments/assets/98a9cab2-0b32-4613-99de-b7b4807aed18)
+
 Now change the 4th number within the brackets from "1" to "0"
 
 And now your background image should appear
