@@ -41,18 +41,9 @@ Should look like this:
 ![image](https://github.com/user-attachments/assets/2bf77159-e794-4170-8b35-8d95e8b5ec40)
 
 2:
-Then go down to line 103 and copy and paste this code
+Then go down to line 93 and uncomment this code
 
-.childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('');
-	background-color: transparent !important;
-	background-size: cover;
-}
-
-Should look like this:
-
-![image](https://github.com/user-attachments/assets/0090133e-0d20-481a-87a5-fbb32d61908d)
-
+![image](https://github.com/user-attachments/assets/c00f8e89-a2f4-4894-b512-f0d5d55b4366)
 
 3:
 Then you can copy your image url into it and your icon should appear in the top left!!!!
