@@ -9,7 +9,7 @@ Go down to line 49 (--theme-background-image) and upload your image url
 ![image](https://github.com/user-attachments/assets/7956134f-2d17-4e00-9867-1c9dd9c79fd7)
 
 2:
-Your discord is going to look like this:
+Your discord is going to look something like this:
 ![image](https://github.com/user-attachments/assets/633a3d9e-b8bb-4c90-9cda-718a3467f743)
 To fix this we're going to change the opacity on the background color to make it appear invisible
 
