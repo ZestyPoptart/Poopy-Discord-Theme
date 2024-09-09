@@ -32,7 +32,7 @@ To remove the image just follow the steps in reverse and your theme should go ba
 Currently changing the dm button is a bit of a harder process than this but its still fairly simple and I'm currently working on making it easier
 
 1:
-Go down to line 73 and remove all the code besides "--moon-icon: none;"
+Go down to line 71-75 and remove all the code besides "--moon-icon: none;"
 
 I recommend saving the deleted code somewhere in case you want to readd this later
 
@@ -41,11 +41,11 @@ Should look like this:
 ![image](https://github.com/user-attachments/assets/2bf77159-e794-4170-8b35-8d95e8b5ec40)
 
 2:
-Then go down to line 93 and uncomment this code
+Then go down to line 91 and uncomment this code
 
 ![image](https://github.com/user-attachments/assets/c00f8e89-a2f4-4894-b512-f0d5d55b4366)
 
 3:
 Then you can copy your image url into it and your icon should appear in the top left!!!!
 
-thanks 4 reading and using my theme ◝(＾▽＾)◜
+thankz 4 reading nd using my theme ◝(＾▽＾)◜
