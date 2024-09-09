@@ -1,7 +1,7 @@
 # Poopy-Discord-Theme
 My discord theme :P
 
-Just download the file called "Poppy's Theme.css" and put it in your themes folder
+Just download the file called "Poppys.Theme.Main.css" and put it in your themes folder
 
 This theme allows background images but a few steps are required to do so
 
