@@ -3,6 +3,12 @@ My discord theme :P
 
 Just download the file called "Poppys.Theme.Main.css" and put it in your themes folder
 
+Heres how it looks by default:
+![MyDiscordTheme-FullPreview](https://github.com/user-attachments/assets/8ecaafbc-4d03-4b1a-a7da-f95180d68387)
+
+|
+|
+
 This theme allows background images but a few steps are required to do so
 
 1:
